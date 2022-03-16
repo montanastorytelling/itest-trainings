@@ -1,37 +1,22 @@
-## The Storytelling Project: Teacher Trainings
+# The Storytelling Project: Teacher Trainings
 
-You can use the [editor on GitHub](https://github.com/montanastorytelling/itest-trainings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the teacher professional devleopment (PD) for the Storytelling
+project.  This page provides materials for the teacher trainings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The next training is: 21 March 2022.  If you aren't registerd, please email us <storytelling@montana.edu> to let us know you are interested!
 
-### Markdown
+## Before the PD Event:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We look forward to seeing you on 3/21 for the Storytelling professional
+development training.  Prior to the PD, you will need to do the following:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/montanastorytelling/itest-trainings/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Take the [pre-survey]()
+2. Download [Alice 2](https://www.alice.org/get-alice/alice-2/) and follow the
+   instructions to download Alice 2 (note: this is Alice 2, not Alice 3!).  If
+   you are unable to use your personal computer for this purpose, please contact
+   us via email <storytelling@montana.edu> and we will give you access to a
+   virtual machine that you can access through a web browser.
+3. Download starter world. Download the Alice "starter world" we will be using
+   for our lesson. Follow this link to download: [TOOD:LINK] 
+4. Peruse more details. This webpage contains materials needed for the training.
+   Please bookmark this link, and feel free to take a look prior to 3/21!
