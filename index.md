@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Storytelling Project: Teacher Trainings
 
 You can use the [editor on GitHub](https://github.com/montanastorytelling/itest-trainings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
