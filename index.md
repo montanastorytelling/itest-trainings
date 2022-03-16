@@ -11,11 +11,22 @@ We look forward to seeing you on 3/21 for the Storytelling professional
 development training.  Prior to the event, you will need to do the following:
 
 1. Take the [pre-survey](https://montana.qualtrics.com/jfe/form/SV_bDEx8oVZn4QbYay).
-2. Download [Alice 2](https://www.alice.org/get-alice/alice-2/).  Be sure to dowload Alice 2, not Alice 3!  If
-   you are unable to use your personal computer for this purpose, please contact
-   us via email <storytelling@montana.edu> and we will give you access to a
-   virtual machine that you can access through a web browser.
+2. Download [Alice 2](https://www.alice.org/get-alice/alice-2/).  Be sure to
+   dowload Alice 2, not Alice 3!  We suggest saving this to your desktop, so it
+   is easy to find on Monday.
+   If you are unable to use your personal
+   computer for this purpose, please contact us via email
+   <storytelling@montana.edu> and we will give you access to a virtual machine
+   that you can access through a web browser.
 3. Download starter world. Download the Alice "starter world" we will be using
    for our lesson. Follow [this link](./assets/beaded-bag-starter.a2w) to download.
-4. Peruse more details. This webpage contains materials needed for the training.
+4. This webpage contains materials needed for the training.
    Please bookmark this link, and feel free to take a look prior to 3/21!
+
+## Training Materials
+
+... to appear soon. Stay tuned!
+
+## Helpful Resources
+
+* [How To Open a Saved World](./assets/howto_open-saved-world.pdf)
