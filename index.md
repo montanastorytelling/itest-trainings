@@ -17,6 +17,6 @@ development training.  Prior to the PD, you will need to do the following:
    us via email <storytelling@montana.edu> and we will give you access to a
    virtual machine that you can access through a web browser.
 3. Download starter world. Download the Alice "starter world" we will be using
-   for our lesson. Follow this link to download: [TOOD:LINK] 
+   for our lesson. Follow [this link](./assets/beaded-bag-starter.a2w) to download.
 4. Peruse more details. This webpage contains materials needed for the training.
    Please bookmark this link, and feel free to take a look prior to 3/21!
