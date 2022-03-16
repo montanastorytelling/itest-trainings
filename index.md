@@ -1,6 +1,6 @@
 # The Storytelling Project: Teacher Trainings
 
-Welcome to the teacher professional devleopment (PD) for the Storytelling
+Welcome to the teacher professional devleopment for the Storytelling
 project.  This page provides materials for the teacher trainings.
 
 The next training is: 21 March 2022.  If you aren't registerd, please email us <storytelling@montana.edu> to let us know you are interested!
@@ -8,7 +8,7 @@ The next training is: 21 March 2022.  If you aren't registerd, please email us <
 ## Before the PD Event:
 
 We look forward to seeing you on 3/21 for the Storytelling professional
-development training.  Prior to the PD, you will need to do the following:
+development training.  Prior to the event, you will need to do the following:
 
 1. Take the [pre-survey]()
 2. Download [Alice 2](https://www.alice.org/get-alice/alice-2/) and follow the
