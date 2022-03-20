@@ -25,7 +25,20 @@ development training.  Prior to the event, you will need to do the following:
 
 ## Training Materials
 
-... to appear soon. Stay tuned!
+1. **The Reading**: In 2009, the Montana Historical Society presented a special
+   exhibit entitled ``Tradition, Design, Color: Plateau Indian Beaded Bags from
+   the Fred Mitchell Collection.'' The accompanying brochure gives historical
+   context for the Plateau Indian beaded bags and is the central text for this
+   lesson. This text describes the context of beaded bags created by American
+   Indians on the Columbia River Plateau.  The beads used to create these pieces
+   were made in Europe, which the American Indians acquired through trade.  The
+   beaded bags featured in this article are from the mid 19th century to the
+   early 20th century, and use small colorful beads known as \emph{seed beads}.
+   The particular bag that we focus on in this unit is from around 1920 (see
+   \figref{beadbag}), when the techniques for beadwork were sophisticated and
+   often included realistic depictions of people.
+    * [Full Brochure](./assets/reading-full-brochure.pdf)
+    * [Abbreviated Version](./assets/reading-short.pdf)
 
 ## Helpful Resources
 
