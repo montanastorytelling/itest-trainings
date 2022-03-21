@@ -64,6 +64,11 @@ identity.
      understanding of class period two will be assessed. Students will reflect
      on their experience with animation, make a connection between coding and
      other contexts, and reflect on their knowledge of different coding methods.
+4. Rubric: In order to help you assess Alice worlds created by your students in
+   this lesson, we have created The Storytelling Rubric that can be tuned to
+   specific objectives in three areas: Computer Science, IEFA, and other content
+   standards.
+    [Rubric on Qualtrics](https://montana.qualtrics.com/jfe/form/SV_7X1eMmNdZeDF77M) 
 
 ## Helpful Resources
 
