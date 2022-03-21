@@ -39,7 +39,13 @@ development training.  Prior to the event, you will need to do the following:
     * **Essential Understandings** EU 6: History from Indian Perspectives
     * **Additional Content Standards** Art Anchor Standard 11 from [Montana Arts Content Standards](https://opi.mt.gov/LinkClick.aspx?fileticket=2v0S2hRBPjs%3d&portalid=182): distinguish different ways that artworks represent, establish, reinforce, and reflect group
 identity.
-3. The [Beaded Bag Lesson Plan](./assets/beaded-bag.pdf). This visual arts unit
+3. Miro boards: During this training, you will use Miro, an online whiteboard,
+   to work on a concept map and as a place you can fill out worksheets and take
+   notes.  You will be assigned a board and a password during the training.
+    * [Aspen](https://miro.com/app/board/uXjVOD-tmfc=/?invite_link_id=382996925605)
+    * [Pine](https://miro.com/app/board/uXjVOD-qVIU=/?invite_link_id=213731126261)
+    * [Spruce](https://miro.com/app/board/uXjVOD-wKv8=/?invite_link_id=397741834702)
+4. The [Beaded Bag Lesson Plan](./assets/beaded-bag.pdf). This visual arts unit
    is designed to help students understand the history of beaded bags and their
    connection to the tribes of the Columbia Plateau, and to introduce students
    to computational thinking.  We have selected one such bag from the Fred
@@ -64,11 +70,11 @@ identity.
      understanding of class period two will be assessed. Students will reflect
      on their experience with animation, make a connection between coding and
      other contexts, and reflect on their knowledge of different coding methods.
-4. Rubric: In order to help you assess Alice worlds created by your students in
+5. Rubric: In order to help you assess Alice worlds created by your students in
    this lesson, we have created The Storytelling Rubric that can be tuned to
    specific objectives in three areas: Computer Science, IEFA, and other content
    standards.
-    [Rubric on Qualtrics](https://montana.qualtrics.com/jfe/form/SV_7X1eMmNdZeDF77M) 
+    [Rubric on Qualtrics](https://montana.qualtrics.com/jfe/form/SV_7X1eMmNdZeDF77M)
 
 ## Helpful Resources
 
