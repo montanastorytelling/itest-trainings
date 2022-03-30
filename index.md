@@ -3,11 +3,11 @@
 Welcome to the teacher professional devleopment for the Storytelling
 project.  This page provides materials for the teacher trainings.
 
-The next training is: 21 March 2022.  If you aren't registerd, please email us <storytelling@montana.edu> to let us know you are interested!
+The next training is: 30 March 2022.  If you aren't registerd, please email us <storytelling@montana.edu> to let us know you are interested!
 
 ## Before the PD Event:
 
-We look forward to seeing you on 3/21 for the Storytelling professional
+We look forward to seeing you on 3/30 for the Storytelling professional
 development training.  Prior to the event, you will need to do the following:
 
 1. Take the [pre-survey](https://montana.qualtrics.com/jfe/form/SV_bDEx8oVZn4QbYay).
@@ -21,7 +21,7 @@ development training.  Prior to the event, you will need to do the following:
 3. Download starter world. Download the Alice "starter world" we will be using
    for our lesson. Follow [this link](./assets/beaded-bag-starter.a2w) to download.
 4. This webpage contains materials needed for the training.
-   Please bookmark this link, and feel free to take a look prior to 3/21!
+   Please bookmark this link, and feel free to take a look prior to 3/30!
 
 ## Training Materials
 
